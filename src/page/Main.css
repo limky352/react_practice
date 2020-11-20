@@ -1,0 +1,8 @@
+.main {
+  background-color: beige;
+  border: 1px solid red;
+}
+
+.section:nth-child(odd) {
+  background-color: #989898;
+}
